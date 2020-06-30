@@ -1,0 +1,498 @@
+# depslib dependency file v1.0
+1590627620 source:f:\sdd_projets\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+
+1590612626 f:\sdd_projets\project1\patient.c
+	"Patient.h"
+
+1590508182 f:\sdd_projets\project1\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1590630242 f:\sdd_projets\project1\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1590627106 f:\sdd_projets\project1\hopitals.h
+
+1590688834 source:d:\sdd_projets\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+
+1590689018 d:\sdd_projets\project1\patient.c
+	"Patient.h"
+
+1590689008 d:\sdd_projets\project1\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1590689440 d:\sdd_projets\project1\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1590678876 d:\sdd_projets\project1\hopitals.h
+
+1590776154 source:d:\sdd_projets\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+
+1590763954 d:\sdd_projets\project2\patient.c
+	"Patient.h"
+
+1590763308 d:\sdd_projets\project2\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1590689458 d:\sdd_projets\project2\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1590678876 d:\sdd_projets\project2\hopitals.h
+
+1590949180 source:f:\sdd_projets\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+
+1590950300 f:\sdd_projets\project3\patient.c
+	"Patient.h"
+
+1590947922 f:\sdd_projets\project3\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1590948450 f:\sdd_projets\project3\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1590682476 f:\sdd_projets\project3\hopitals.h
+
+1591027880 source:d:\sdd_projets\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1590946700 d:\sdd_projets\project3\patient.c
+	"Patient.h"
+
+1590944322 d:\sdd_projets\project3\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1590944850 d:\sdd_projets\project3\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591027964 d:\sdd_projets\project3\hopitals.h
+
+1591026218 d:\sdd_projets\project3\quarantaine.c
+	"Quarantaine.h"
+
+1591028050 d:\sdd_projets\project3\quarantaine.h
+	"Patient.h"
+
+1591093908 source:d:\sdd_projets\project4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1590946700 d:\sdd_projets\project4\patient.c
+	"Patient.h"
+
+1591034562 d:\sdd_projets\project4\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591095022 d:\sdd_projets\project4\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591027964 d:\sdd_projets\project4\hopitals.h
+
+1591095498 d:\sdd_projets\project4\quarantaine.c
+	"Quarantaine.h"
+
+1591095512 d:\sdd_projets\project4\quarantaine.h
+	<string.h>
+
+1591366420 source:d:\sdd_projets\project5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591366008 d:\sdd_projets\project5\patient.c
+	"Patient.h"
+
+1591365540 d:\sdd_projets\project5\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591364650 d:\sdd_projets\project5\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591352962 d:\sdd_projets\project5\hopitals.h
+
+1591367122 d:\sdd_projets\project5\quarantaine.c
+	"Quarantaine.h"
+
+1591366486 d:\sdd_projets\project5\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1591376458 source:d:\sdd_projets\project6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591366008 d:\sdd_projets\project6\patient.c
+	"Patient.h"
+
+1591365540 d:\sdd_projets\project6\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591375668 d:\sdd_projets\project6\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591352962 d:\sdd_projets\project6\hopitals.h
+
+1591376618 d:\sdd_projets\project6\quarantaine.c
+	"Quarantaine.h"
+
+1591374962 d:\sdd_projets\project6\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1591484544 source:f:\sdd_projets\project7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591369608 f:\sdd_projets\project7\patient.c
+	"Patient.h"
+
+1591369140 f:\sdd_projets\project7\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591484554 f:\sdd_projets\project7\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591356562 f:\sdd_projets\project7\hopitals.h
+
+1591485800 f:\sdd_projets\project7\quarantaine.c
+	"Quarantaine.h"
+
+1591485524 f:\sdd_projets\project7\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1591624732 source:d:\sdd_projets\project7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591624608 d:\sdd_projets\project7\patient.c
+	"Patient.h"
+
+1591365540 d:\sdd_projets\project7\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591480954 d:\sdd_projets\project7\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591352962 d:\sdd_projets\project7\hopitals.h
+
+1591621158 d:\sdd_projets\project7\quarantaine.c
+	"Quarantaine.h"
+
+1591621156 d:\sdd_projets\project7\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1591709210 source:d:\sdd_projets\project8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591700478 d:\sdd_projets\project8\patient.c
+	"Patient.h"
+
+1591628684 d:\sdd_projets\project8\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591707760 d:\sdd_projets\project8\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591700150 d:\sdd_projets\project8\hopitals.h
+
+1591709246 d:\sdd_projets\project8\quarantaine.c
+	"Quarantaine.h"
+
+1591621156 d:\sdd_projets\project8\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1591872060 source:d:\sdd_projets\project9_working\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1591793522 d:\sdd_projets\project9_working\patient.c
+	"Patient.h"
+
+1591792462 d:\sdd_projets\project9_working\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1591707760 d:\sdd_projets\project9_working\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1591700150 d:\sdd_projets\project9_working\hopitals.h
+
+1591871940 d:\sdd_projets\project9_working\quarantaine.c
+	"Quarantaine.h"
+
+1591872066 d:\sdd_projets\project9_working\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1592335594 source:d:\sdd_projets\project10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592162530 d:\sdd_projets\project10\patient.c
+	"Patient.h"
+
+1592162546 d:\sdd_projets\project10\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1592336084 d:\sdd_projets\project10\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592161724 d:\sdd_projets\project10\hopitals.h
+
+1592162904 d:\sdd_projets\project10\quarantaine.c
+	"Quarantaine.h"
+
+1592161830 d:\sdd_projets\project10\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1592398482 source:f:\sdd_projets\project10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592398750 f:\sdd_projets\project10\patient.c
+	"Patient.h"
+
+1592166146 f:\sdd_projets\project10\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1592339684 f:\sdd_projets\project10\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592398668 f:\sdd_projets\project10\hopitals.h
+
+1592399650 f:\sdd_projets\project10\quarantaine.c
+	"Quarantaine.h"
+
+1592399554 f:\sdd_projets\project10\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1592597004 source:f:\sdd_projets\project11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592601860 f:\sdd_projets\project11\patient.c
+	"Patient.h"
+
+1592166146 f:\sdd_projets\project11\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1592827168 f:\sdd_projets\project11\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592398668 f:\sdd_projets\project11\hopitals.h
+
+1592827756 f:\sdd_projets\project11\quarantaine.c
+	"Quarantaine.h"
+
+1592399554 f:\sdd_projets\project11\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1592437138 source:d:\sdd_projets\project11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592407198 d:\sdd_projets\project11\patient.c
+	"Patient.h"
+
+1592162546 d:\sdd_projets\project11\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1592336084 d:\sdd_projets\project11\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592395068 d:\sdd_projets\project11\hopitals.h
+
+1592436556 d:\sdd_projets\project11\quarantaine.c
+	"Quarantaine.h"
+
+1592395954 d:\sdd_projets\project11\quarantaine.h
+	<string.h>
+	"Patient.h"
+
+1592915364 source:f:\sdd_projets\project12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592913678 f:\sdd_projets\project12\patient.c
+	"Patient.h"
+
+1592166146 f:\sdd_projets\project12\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1592916486 f:\sdd_projets\project12\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592398668 f:\sdd_projets\project12\hopitals.h
+
+1592917614 f:\sdd_projets\project12\quarantaine.c
+	"Quarantaine.h"
+	"Hotels.h"
+
+1592915204 f:\sdd_projets\project12\quarantaine.h
+	<string.h>
+	"Patient.h"
+	"hotels.c"
+
+1592912642 f:\sdd_projets\project12\hotels.h
+
+1592913224 f:\sdd_projets\project12\hotels.c
+	"Hotels.h"
+
+1592915364 source:f:\sdd_projets\project13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"hopitals.c"
+	"quarantaine.c"
+
+1592925780 f:\sdd_projets\project13\patient.c
+	"Patient.h"
+	"maladie.c"
+
+1592925638 f:\sdd_projets\project13\patient.h
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"maladie.h"
+
+1592925754 f:\sdd_projets\project13\maladie.c
+	"maladie.h"
+
+1592925490 f:\sdd_projets\project13\maladie.h
+
+1593085084 f:\sdd_projets\project13\hopitals.c
+	"Hopitals.h"
+	"Patient.h"
+
+1592398668 f:\sdd_projets\project13\hopitals.h
+
+1592917614 f:\sdd_projets\project13\quarantaine.c
+	"Quarantaine.h"
+	"Hotels.h"
+
+1592915204 f:\sdd_projets\project13\quarantaine.h
+	<string.h>
+	"Patient.h"
+	"hotels.c"
+
+1592926866 f:\sdd_projets\project13\hotels.c
+	"Hotels.h"
+
+1592912642 f:\sdd_projets\project13\hotels.h
+
